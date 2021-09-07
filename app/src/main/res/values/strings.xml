@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Login Signup</string>
+    <string name="type">Choose user</string>
+    <string name="txt_FirstName">Nombre</string>
+    <string name="txt_LastName">Apellido</string>
+    <string name="txt_Id">Identificación</string>
+    <string name="txt_Phone">Telefono</string>
+    <string name="txt_Email">Correo</string>
+    <string name="txt_Address">Dirección</string>
+    <string name="ButtonRegistration">Registrarse</string>
+    <string name="contrase_a">Contraseña</string>
+    <string-array name="user_type">
+        <item>Conductor</item>
+        <item>Propietario De Camion</item>
+        <item>Propietario De Carga</item>
+
+    </string-array>
+</resources>
