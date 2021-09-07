@@ -28,6 +28,7 @@ public class Registrar extends AppCompatActivity {
         et_Password2 = (EditText)findViewById(R.id.txt_confirmarPassword);
         et_rol = findViewById(R.id.type);
 
+
     }
     public void RegistrarButton(View view){
         DataBase datos = new DataBase(this, "baseDatos", null, 1);
